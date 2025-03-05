@@ -5,7 +5,7 @@
 - HTML, CSS, JavaScript  
 
 *Key Features:*
-Real-time password strength indicator, Strength levels( Weak, Medium, Strong ), Visual feedback (color changes), Responsive design.
+- Real-time password strength indicator, Strength levels( Weak, Medium, Strong ), Visual feedback (color changes), Responsive design.
 
 *How to run:*
-Open the index.html file in any web browser.
+- Open the index.html file in any web browser.
